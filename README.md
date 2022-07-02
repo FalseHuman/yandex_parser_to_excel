@@ -17,4 +17,5 @@ driver = webdriver.Chrome(executable_path='YOUR_PATH_CHROMEDRIVER', chrome_optio
 Прежде чем запустить парсер необходимо залогиниться в Яндексе, это необходимо для того, чтобы обходить капчу. Если не хотите использовать дефолтный профиль Chrome, то необходимо указать путь до профиля, в котором так же необходимо пройти авторизацию в Яндексе.
 
 [Папка с примерами](https://github.com/FalseHuman/yandex_parser_to_excel/tree/master/sample_files)
+
 Связаться со мной в [Telegram](https://t.me/FalseHuman)
