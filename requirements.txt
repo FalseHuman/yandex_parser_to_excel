@@ -1,0 +1,4 @@
+requests==2.26.0
+openpyxl==3.0.9
+pyTelegramBotAPI==4.5.0
+selenium==4.1.3
