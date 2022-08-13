@@ -7,6 +7,7 @@ $ pip install -r ./requirements.txt
 token = 'YOU_TOKEN' # Необходимо добавить свой токен полученный у BotFather
 $ python bot.py
 ```
+Сcылка на [BotFather](https://t.me/BotFather)
 ### Для работы парсера нужен установленный браузер Google Chrome и Chromedriver, так же измените настройки на свои:
 [Ссылка на Chromedriver](https://chromedriver.storage.googleapis.com/index.html)
 ```bash
